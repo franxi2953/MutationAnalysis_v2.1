@@ -1,6 +1,6 @@
 ### 
 
-<img src="https://jogl.io/assets/imgs/logo.png" width="180px" height="250px" align="right">
+<img src="/files/JOGL_logo.png" width="180px" height="250px" align="right">
 
 
 
