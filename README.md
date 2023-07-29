@@ -7,7 +7,6 @@
 ### Table of Contents
 
 - Introduction
-- Next steps (Help welcomed!)
 - Installing the library
 - Library functions
 
@@ -16,19 +15,13 @@
 
 ### Introduction
 
-We have started this project aiming to develop a series of tools for analyzing the existing primers for nCov diagnosis. 
+We embarked on this project with the primary aim of developing a series of tools for analyzing the existing primers used in nCoV diagnosis.
 
-Specifically, the goal of the following library is to provide a simple framework for analyzing the mutation rate in huge amounts of its sequences data (>8k sequences). 
+Specifically, our goal with this library is to provide a straightforward framework for analyzing the mutation rate in a vast amount of sequence data (>8k sequences).
 
-The objective is to use this information to compare different primer sets (RT-PCR, RT-LAMP...) and predict which of them would work better, regarding the conservation of the targeted regions.
+By doing so, we can effectively compare different primer sets (RT-PCR, RT-LAMP, etc.) and make predictions about their performance in conserving the targeted regions.
 
-In the "OLD" folder you could find the beta version of the library functions, when they were just Jupyter Lab scripts.
-
-
-
-### Next steps (Help welcomed!)
-
-Sketch for now. More details on https://miro.com/app/board/o9J_le5Y2xc=/
+In the "OLD" folder, you will find the beta version of the library functions when they were still in the form of Jupyter Lab scripts.
 
 
 
@@ -43,8 +36,6 @@ Sketch for now. More details on https://miro.com/app/board/o9J_le5Y2xc=/
    
 
 ### Library functions
-
-
 
 #### AlignmentParser (degeneratedNucleotides = False, f_align = "align.aln", f_out="nc_count.txt")
 
